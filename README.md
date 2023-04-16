@@ -1,2 +1,2 @@
-# Proyecto-Dise-o-Web-
+# Proyecto-Diseno-Web-
 Pagina web de Maquina Expendedora
